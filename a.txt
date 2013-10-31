@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-a
-=======
-first-time commit in B1
-second-time commit in B1
-third-time commit in B1
-fifth-time commit in B1 
->>>>>>> B1
-=======
-aaa
->>>>>>> 8c212d854958d111fe7f02764e98fa31aee4518b
+kkk
